@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.remirror-theme {
+  margin: 0 3em;
+}
+
+.title {
+  font-size: 3em !important;
+  font-weight: 400 !important;
+  color: rgba(156, 57, 255, 0.5) !important;
+}
+
+pre {
+  border: 2px solid #ccc;
+  border-radius: 0.3rem;
+  padding: 1em;
+}
